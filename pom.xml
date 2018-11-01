@@ -95,7 +95,7 @@
       </dependency>
   </dependencies>
     <build>
-        <finalName>hello this is santu</finalName>
+        <finalName>hello this is santosh</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
